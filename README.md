@@ -13,3 +13,6 @@ Download dependencies:
    
 Run command in terminal
 ``` uvicorn main:app --reload```
+
+Download Postman:
+Post the image in body with key of 'file' and select the image in sample folders
